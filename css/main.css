@@ -48,6 +48,10 @@ li {
     margin-bottom: 3px;
 }
 
+#content {
+    max-width: 50em;
+}
+
 #content img {
     max-width: 100%;
     padding: 4px;
